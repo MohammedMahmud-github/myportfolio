@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&family=Poppins:wght@300&display=swap');
+
+body {
+    background-color: white;
+}
+
+
+
+.pagetitle {
+    font-family: 'Open Sans', sans-serif;
+    text-align: left;
+    padding-left: 5em;
+    font-size: 2em;
+    margin: 10em;
+    color: black;
+}
